@@ -30,7 +30,7 @@ platform who are also employees.
 
 - Click on "Click Here" and select purpose to log in or log out as a visitor, a host or an admin.
 - A guest with a QR Code should click on the QR image on the bottom left to check in.
-- API Documentation available at /api-docs
+- API Documentation available at <https://amalitech-vilog.herokuapp.com/api-docs>
 
 _Deployment Link:_
 
@@ -48,5 +48,5 @@ _Deployment Link:_
 ## Author
 
 - _Name:_ Theophilus Gordon
-- _GitHub:_ <https://github.com/theophilusgordon>
-- _Email:_ theophilusgordon@yahoo.com
+- _GitHub:_ <https://github.com/gordontheophilus>
+- _Email:_ theophilus.gordon@amalitech.org
